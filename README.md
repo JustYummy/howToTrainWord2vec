@@ -1,4 +1,4 @@
-# howToTrainWord2vec
+# How to train word2vec
 ### Gensim 词向量数据训练
 
 #### 1.处理语料库
